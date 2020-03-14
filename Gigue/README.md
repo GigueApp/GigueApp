@@ -1,6 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Gigue
+
+This project was built by Alicja Wolak and Molly Novash.
+
+Gigue allows you to enter a zip code, and through a series of simple API calls to Google Maps API and Songkick API, it builds a list of music events happening in the area in the near future, displayed chronologically. 
+
+Each event displays the artist, supporting artist(s), venue, location, and date of the show. From there, you have the option of being directed to an external website to purchase tickets, or of exploring songs by that particular artist. If you choose the second option, the page rerenders to display the artist's top 3 songs on iTunes, with a playable preview of the song and some track information, from the iTunes API. 
+
+## To run the application
 
 In the project directory, you can run:
 
@@ -11,6 +19,22 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
+
+NOTE: 
+
+You'll need to install npm if you don't have it already.
+
+First, try running 'npm start' in the project directory.
+If you get an error relating to react-scripts, do the following:
+
+1. Delete the entire 'node_modules' folder
+2. Delete package-lock.json
+3. Run 'npm install'
+4. Run 'npm start'
+
+
+
+## Other available scripts
 
 ### `npm test`
 

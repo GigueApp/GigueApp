@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/GigueApp/static/css/main.e2d73485.chunk.css",
+    "main.js": "/GigueApp/static/js/main.f40ef89d.chunk.js",
+    "main.js.map": "/GigueApp/static/js/main.f40ef89d.chunk.js.map",
+    "runtime-main.js": "/GigueApp/static/js/runtime-main.964e2c77.js",
+    "runtime-main.js.map": "/GigueApp/static/js/runtime-main.964e2c77.js.map",
+    "static/css/2.de424728.chunk.css": "/GigueApp/static/css/2.de424728.chunk.css",
+    "static/js/2.4f30a6a0.chunk.js": "/GigueApp/static/js/2.4f30a6a0.chunk.js",
+    "static/js/2.4f30a6a0.chunk.js.map": "/GigueApp/static/js/2.4f30a6a0.chunk.js.map",
+    "index.html": "/GigueApp/index.html",
+    "precache-manifest.9c8d1ca2bf4827af64d58d8e5986231d.js": "/GigueApp/precache-manifest.9c8d1ca2bf4827af64d58d8e5986231d.js",
+    "service-worker.js": "/GigueApp/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/GigueApp/static/css/2.de424728.chunk.css.map",
+    "static/css/main.e2d73485.chunk.css.map": "/GigueApp/static/css/main.e2d73485.chunk.css.map",
+    "static/js/2.4f30a6a0.chunk.js.LICENSE.txt": "/GigueApp/static/js/2.4f30a6a0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/GigueApp/static/media/ojol.804900da.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.964e2c77.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.4f30a6a0.chunk.js",
+    "static/css/main.e2d73485.chunk.css",
+    "static/js/main.f40ef89d.chunk.js"
+  ]
+}
